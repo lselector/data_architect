@@ -1,0 +1,56 @@
+Data Architecture - Lectures and interview questions
+
+===============================
+DA_01_Intro.pptx
+===============================
+DA_02_algorithms.pptx
+===============================
+DA_03_distributed_systems.pptx
+  - https://www.youtube.com/watch?v=C7KqPD9nolY 
+===============================
+DA_04_SQL_Modern_DW.pptx
+===============================
+DA_05_Synapse.pptx
+  - https://www.youtube.com/watch?v=O25jPHglrus 
+===============================
+DA_06_Purview.pptx
+  - https://www.youtube.com/watch?v=hXeAgc3P4Ak
+===============================
+DA_07_StarSchemaDataModeling.pptx
+  - https://www.youtube.com/watch?v=7DdlF4cD1QE
+===============================
+DA_08_StarSchema_BEAM.pptx
+DA_08_Three_Clouds.pptx
+  - https://www.youtube.com/watch?v=9yWqFuC7Toc
+===============================
+DA_09_ETL_Git_CI_CD_DevOps.pptx
+DA_09_Docker_Kubernetes.pptx
+DA_09_Security_Privacy.pptx
+  - https://www.youtube.com/watch?v=wUEF0HaUzJA
+===============================
+DA_10_Very_Large_Databases.pptx
+  - https://www.youtube.com/watch?v=zGN5owJQTgc
+===============================
+DA11_PowerBI_PowerApps.pptx
+  - https://www.youtube.com/watch?v=fuQQn0gVF-8
+===============================
+DA12_FiDA_12_Firebolt.pptx
+Interview questions - DA_InterviewQuestions.pdf
+  part 1 - https://www.youtube.com/watch?v=3HvcD1ZZXNg
+  part 2 - https://www.youtube.com/watch?v=tlrKfkjl8FQ
+  part 3 - https://www.youtube.com/watch?v=whe3IzHGh00 
+  part 4 - https://www.youtube.com/watch?v=ftTG0dch9bc
+Next lectures:
+===============================
+ - Interview Questions (Mikhail Agladze - continue)
+===============================
+ - Distributed ML (Brad Miro)
+===============================
+ - Case Examples (Rachael)
+some "Case Studies" (show examples for all 3 clouds):
+ - regular DW (batch ETL + blobs + DW / serverless + PowerBI)
+ - real-time transactional DB + DW ...
+ - massive distributed real-time data (CosmosDB) => Link => Analytical DW
+ - add ML pipelines and endpoints
+ - add Spark/Databricks distributed data processing
+===============================
