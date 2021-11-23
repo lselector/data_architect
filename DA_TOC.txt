@@ -35,11 +35,14 @@ DA11_PowerBI_PowerApps.pptx
   - https://www.youtube.com/watch?v=fuQQn0gVF-8
 ===============================
 DA12_FiDA_12_Firebolt.pptx
+===============================
 Interview questions - DA_InterviewQuestions.pdf
   part 1 - https://www.youtube.com/watch?v=3HvcD1ZZXNg
   part 2 - https://www.youtube.com/watch?v=tlrKfkjl8FQ
   part 3 - https://www.youtube.com/watch?v=whe3IzHGh00 
   part 4 - https://www.youtube.com/watch?v=ftTG0dch9bc
+  part 5 - https://www.youtube.com/watch?v=3lrHYdtiOoQ
+===============================
 Next lectures:
 ===============================
  - Interview Questions (Mikhail Agladze - continue)
