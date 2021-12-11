@@ -43,18 +43,12 @@ Interview questions - DA_InterviewQuestions.pdf
   part 4 - https://www.youtube.com/watch?v=ftTG0dch9bc
   part 5 - https://www.youtube.com/watch?v=3lrHYdtiOoQ
   part 6 - https://www.youtube.com/watch?v=Rlgm8_6vlMs
+  part 7 - https://www.youtube.com/watch?v=U0xaOZBT9Co
+===============================
+DA_13_miscellaneous.pptx
+DA_14_Kafka.pptx
 ===============================
 Next lectures:
 ===============================
- - Interview Questions (Mikhail Agladze - continue)
-===============================
  - Distributed ML (Brad Miro)
-===============================
- - Case Examples (Rachael)
-some "Case Studies" (show examples for all 3 clouds):
- - regular DW (batch ETL + blobs + DW / serverless + PowerBI)
- - real-time transactional DB + DW ...
- - massive distributed real-time data (CosmosDB) => Link => Analytical DW
- - add ML pipelines and endpoints
- - add Spark/Databricks distributed data processing
 ===============================
