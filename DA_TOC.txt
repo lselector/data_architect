@@ -44,6 +44,7 @@ Interview questions - DA_InterviewQuestions.pdf
   part 5 - https://www.youtube.com/watch?v=3lrHYdtiOoQ
   part 6 - https://www.youtube.com/watch?v=Rlgm8_6vlMs
   part 7 - https://www.youtube.com/watch?v=U0xaOZBT9Co
+Use cases - https://www.youtube.com/watch?v=CVPsvZA9zu8
 ===============================
 DA_13_miscellaneous.pptx
 DA_14_Kafka.pptx
